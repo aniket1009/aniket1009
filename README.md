@@ -1,7 +1,24 @@
-- 👋 Hi, I’m @aniket1009
-- 👀 I’m interested in programming and in GitHub community 
-- 🌱 I’m currently learning Artifical intelligence and Data Science
-<!---
-aniket1009/aniket1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Aniket Deshbhratar
+
+🎓 B.Tech in Artificial Intelligence
+
+💻 Skills:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning Fundamentals
+- Data Structures & Algorithms
+
+📚 Currently Learning:
+- Pandas
+- NumPy
+- Scikit-Learn
+- Data Science
+
+🚀 Looking for opportunities in:
+- AI/ML
+- Data Science
+- Python Development
+
+📫 Email:
+ani.anu.deshbhratar@gmail.com
