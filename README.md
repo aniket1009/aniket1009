@@ -8,8 +8,6 @@
 - Data Analysis
 - Machine Learning Fundamentals
 - Data Structures & Algorithms
-
-📚 Currently Learning:
 - Pandas
 - NumPy
 - Scikit-Learn
